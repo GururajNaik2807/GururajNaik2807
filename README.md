@@ -68,8 +68,8 @@ const me = {
 ## 🐍 Contribution snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GururajNaik2807/GururajNaik2807/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark)" />
-</div>
+[  <img src="https://raw.githubusercontent.com/GururajNaik2807/GururajNaik2807/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark)" />
+](https://raw.githubusercontent.com/GururajNaik2807/GururajNaik2807/output/github-contribution-grid-snake.svg)</div>
 
 ## 📫 Let's connect
 
