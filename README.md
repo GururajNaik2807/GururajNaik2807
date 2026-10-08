@@ -1,57 +1,64 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Animated header with blossoms and hot air balloons" width="100%" />
+<img src="./assets/header.svg" alt="Gururaj Naik - Full-Stack Web Developer" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF9EBB&center=true&vCenter=true&multiline=true&width=760&height=110&lines=%3E+Turning+ideas+into+working+code+%F0%9F%8C%B8;%3E+Python+%E2%80%A2+TypeScript+%E2%80%A2+Tkinter;%3E+Open+to+collabs+and+cool+projects+%F0%9F%8E%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF9EBB&center=true&vCenter=true&multiline=true&width=800&height=110&lines=%3E+Building+complete+products%2C+end+to+end+%F0%9F%8C%B8;%3E+React+%E2%80%A2+Flask+%E2%80%A2+FastAPI+%E2%80%A2+SQL;%3E+Open+to+Web+Developer+%2F+Full-Stack+roles+%F0%9F%8E%88" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=GururajNaik2807&label=PROFILE%20VIEWS&color=ff7eb3&style=for-the-badge)
+[![Resume](https://img.shields.io/badge/📄_Resume-FF7EB3?style=for-the-badge)](./Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gururajnaik2807@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gururaj-naik-47b8a939b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GururajNaik2807)
 
 </div>
 
 ---
 
-## 🧠 About me
+## 👋 About
 
-```js
-const me = {
-  name: "Gururaj Naik",
-  handle: "GururajNaik2807",
-  focus: ["full-stack experiments", "developer tools", "automation"],
-  achievements: ["Pull Shark 🦈", "Quickdraw ⚡"],
-  fuel: "☕",
-  vibe: "blossoms + balloons + clean code",
-};
-```
+Full-stack web developer and B.E. Information Technology student who designs, builds and ships complete products. I work across the stack, from interactive React and JavaScript frontends to Python and SQL backends with REST APIs, and I focus on turning ideas into polished, usable software.
 
 ## 🚀 Featured projects
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/GururajNaik2807/T07-SkillProof">🛡️ T07-SkillProof</a></h3>
-      An automated talent-verification engine that checks engineering resumes against real GitHub data: repo activity, commit recency, tests, deployments, and open-source contributions.
-      <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
+    <td width="50%" valign="top">
+      <h3>💸 Bublops: SaaS Investor &amp; Borrower Analytics</h3>
+      A full-stack platform where investors manage borrowers, loan amounts and goal milestones from one dashboard. Real-time analytics compute capital invested, yield, balances and due dates, plus a one-click WhatsApp Nudge that sends payment reminders with the exact due amount.
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/Web_APIs-333333?style=flat-square" alt="Web APIs" />
+      </p>
+      <a href="https://bublops-main.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF7EB3?style=for-the-badge" alt="Live demo" /></a>
     </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/GururajNaik2807/CodeToAnim">🎬 CodeToAnim</a></h3>
-      Turning code into animation, a fun project at the intersection of programming and visuals.
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/GururajNaik2807/Library-Management">📚 Library-Management</a></h3>
-      A desktop library management app built with Tkinter as a 4th-semester college project.
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></p>
+    <td width="50%" valign="top">
+      <h3>🎬 CodeToAnim: Interactive Python Code Visualizer</h3>
+      A web app that animates algorithm execution step by step, such as array changes in binary search and sorting, so learners can see what each line does. Includes play, pause and step-forward controls to inspect data-structure state at every step.
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Canvas" />
+      </p>
+      <a href="https://code-to-anim.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF7EB3?style=for-the-badge" alt="Live demo" /></a>
     </td>
   </tr>
 </table>
 
-## ⚡ Tech stack
+## ⚡ Technical skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,python,git,github,linux,vscode" alt="Tech stack" />
+<table>
+  <tr><td><b>Languages</b></td><td>JavaScript (ES6+), Python, SQL, HTML5, CSS3</td></tr>
+  <tr><td><b>Frontend</b></td><td>React.js, Responsive Design, Reusable UI Components, DOM Manipulation, HTML5 Canvas</td></tr>
+  <tr><td><b>Backend &amp; Data</b></td><td>Flask, FastAPI, RESTful APIs, MySQL, SQLite, WhatsApp API Integration</td></tr>
+  <tr><td><b>Tools</b></td><td>Git, GitHub, VS Code, Web Analytics, Data Visualization</td></tr>
+</table>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,python,flask,mysql,sqlite,git,github,vscode" alt="Tech icons" />
 </p>
 
 ## 📊 GitHub stats
@@ -62,23 +69,17 @@ const me = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GururajNaik2807&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://raw.githubusercontent.com/GururajNaik2807/GururajNaik2807/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </div>
-
-## 🐍 Contribution snake
-
-<div align="center">
-[  <img src="https://raw.githubusercontent.com/GururajNaik2807/GururajNaik2807/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark)" />
-](https://raw.githubusercontent.com/GururajNaik2807/GururajNaik2807/output/github-contribution-grid-snake.svg)</div>
 
 ## 📫 Let's connect
 
 <p align="center">
+  <a href="mailto:gururajnaik2807@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/gururaj-naik-47b8a939b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/GururajNaik2807"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="Animated footer with waves and blossoms" width="100%" />
+  <img src="./assets/footer.svg" alt="Animated footer" width="100%" />
 </div>
