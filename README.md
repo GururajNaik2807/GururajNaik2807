@@ -33,7 +33,7 @@ Full-stack web developer and B.E. Information Technology student who designs, bu
 
 <div align="center">
   <img src="./assets/record.svg" alt="GitHub record statistics" width="100%" />
-  <img src="https://raw.githubusercontent.com/GururajNaik2807/GururajNaik2807/output/github-contribution-grid-snake-dark.svg?v=2" alt="GitHub contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/GururajNaik2807/GururajNaik2807/output/github-contribution-grid-snake-dark.svg?v=3" alt="GitHub contribution snake" width="100%" />
 </div>
 
 <img src="./assets/title-contact.svg" alt="Contact" width="100%" />
