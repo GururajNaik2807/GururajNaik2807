@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 205" width="900" height="205" role="img" aria-label="GitHub record: 15 repositories, 11 stars earned, 2 followers">
+<title>GitHub record: 15 repositories, 11 stars earned, 2 followers</title>
+<defs>
+<radialGradient id="iris" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ff5a5f"/><stop offset=".55" stop-color="#e11d2e"/><stop offset="1" stop-color="#8a0b14"/></radialGradient>
+<radialGradient id="aura" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#e11d2e" stop-opacity=".55"/><stop offset="1" stop-color="#e11d2e" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-50%" y="-80%" width="200%" height="260%"><feGaussianBlur stdDeviation="14"/></filter>
+<path id="tomoe" d="M-1 0 C-.8 -1.8 1.8 -2.6 3.6 -1.4 C2 -1.6 1 -.8 1 0 A1 1 0 0 1 -1 0Z"/>
+<path id="feather" d="M0 0 C5 -9 7 -22 0 -38 C-7 -22 -5 -9 0 0Z" fill="#0b0b10" stroke="#e11d2e" stroke-opacity=".55" stroke-width=".9"/>
+<path id="cloud" d="M0 26 C-14 26 -16 8 -2 5 C0 -10 22 -14 28 -2 C38 -10 56 -2 50 12 C62 14 60 30 46 30 L6 30 C2 30 0 28 0 26Z" fill="#e11d2e" stroke="#f3f1f4" stroke-width="2.2"/>
+<style>.pop{animation:pp .7s cubic-bezier(.2,1.6,.4,1) both;transform-box:fill-box;transform-origin:center}
+@keyframes pp{from{opacity:0;transform:scale(.3)}to{opacity:1;transform:scale(1)}}</style></defs>
+<path d="M0 14 L14 0 H886 L900 14 V191 L886 205 H14 L0 191Z" fill="#0d0a11" stroke="#e11d2e" stroke-width="2"/>
+<g opacity=".1"><g transform="translate(450 100)"><circle r="130" fill="url(#iris)" stroke="#000" stroke-width="6.5"/><circle r="80.6" fill="none" stroke="#1a0004" stroke-width="3.9"/><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/><use xlink:href="#tomoe" transform="rotate(0) translate(0 -80.6) scale(19.50)" fill="#080002"/><use xlink:href="#tomoe" transform="rotate(120) translate(0 -80.6) scale(19.50)" fill="#080002"/><use xlink:href="#tomoe" transform="rotate(240) translate(0 -80.6) scale(19.50)" fill="#080002"/></g><circle r="26.0" fill="#000"/></g></g>
+<path d="M300 40 V150 M600 40 V150" stroke="#8a0b14" stroke-opacity=".6"/>
+<g class="pop" style="animation-delay:0.30s"><text x="150" y="100" text-anchor="middle" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="74" fill="#f3f1f4" filter="url(#glow)">15</text></g>
+<text x="150" y="134" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="4" fill="#e11d2e">REPOSITORIES</text><g class="pop" style="animation-delay:0.65s"><text x="450" y="100" text-anchor="middle" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="74" fill="#f3f1f4" filter="url(#glow)">11</text></g>
+<text x="450" y="134" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="4" fill="#e11d2e">STARS EARNED</text><g class="pop" style="animation-delay:1.00s"><text x="750" y="100" text-anchor="middle" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="74" fill="#f3f1f4" filter="url(#glow)">2</text></g>
+<text x="750" y="134" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="4" fill="#e11d2e">FOLLOWERS</text>
+<text x="450" y="182" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#a5a1ad">ACHIEVEMENTS · Pull Shark · Quickdraw</text>
+</svg>

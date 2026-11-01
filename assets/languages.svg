@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 206" width="900" height="206" role="img" aria-label="Top languages by repository">
+<title>Top languages by repository</title>
+<defs>
+<radialGradient id="iris" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ff5a5f"/><stop offset=".55" stop-color="#e11d2e"/><stop offset="1" stop-color="#8a0b14"/></radialGradient>
+<radialGradient id="aura" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#e11d2e" stop-opacity=".55"/><stop offset="1" stop-color="#e11d2e" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-50%" y="-80%" width="200%" height="260%"><feGaussianBlur stdDeviation="14"/></filter>
+<path id="tomoe" d="M-1 0 C-.8 -1.8 1.8 -2.6 3.6 -1.4 C2 -1.6 1 -.8 1 0 A1 1 0 0 1 -1 0Z"/>
+<path id="feather" d="M0 0 C5 -9 7 -22 0 -38 C-7 -22 -5 -9 0 0Z" fill="#0b0b10" stroke="#e11d2e" stroke-opacity=".55" stroke-width=".9"/>
+<path id="cloud" d="M0 26 C-14 26 -16 8 -2 5 C0 -10 22 -14 28 -2 C38 -10 56 -2 50 12 C62 14 60 30 46 30 L6 30 C2 30 0 28 0 26Z" fill="#e11d2e" stroke="#f3f1f4" stroke-width="2.2"/>
+</defs>
+<path d="M0 14 L14 0 H886 L900 14 V192 L886 206 H14 L0 192Z" fill="#0d0a11" stroke="#e11d2e" stroke-width="2"/>
+<text x="34" y="46" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="22" letter-spacing="4" fill="#f3f1f4">TOP LANGUAGES</text>
+<text x="330" y="45" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#a5a1ad">by repository</text>
+<path d="M34 58 H866" stroke="#8a0b14" stroke-opacity=".6"/>
+<text x="34" y="97" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#f3f1f4">Python</text>
+<rect x="190" y="82" width="500" height="20" fill="#14090e" stroke="#8a0b14" stroke-opacity=".6"/>
+<rect x="190" y="82" width="222.2" height="20" fill="#e11d2e" opacity="1.00"><animate attributeName="width" from="0" to="222.2" dur="1.1s" begin="0.3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .3 1"/></rect>
+<text x="720" y="97" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#e11d2e">44%</text>
+<text x="780" y="97" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#a5a1ad">4 repos</text><text x="34" y="135" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#f3f1f4">TypeScript</text>
+<rect x="190" y="120" width="500" height="20" fill="#14090e" stroke="#8a0b14" stroke-opacity=".6"/>
+<rect x="190" y="120" width="166.7" height="20" fill="#e11d2e" opacity="0.88"><animate attributeName="width" from="0" to="166.7" dur="1.1s" begin="0.5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .3 1"/></rect>
+<text x="720" y="135" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#e11d2e">33%</text>
+<text x="780" y="135" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#a5a1ad">3 repos</text><text x="34" y="173" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#f3f1f4">Jupyter Notebook</text>
+<rect x="190" y="158" width="500" height="20" fill="#14090e" stroke="#8a0b14" stroke-opacity=".6"/>
+<rect x="190" y="158" width="111.1" height="20" fill="#e11d2e" opacity="0.76"><animate attributeName="width" from="0" to="111.1" dur="1.1s" begin="0.7s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .3 1"/></rect>
+<text x="720" y="173" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#e11d2e">22%</text>
+<text x="780" y="173" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#a5a1ad">2 repos</text>
+</svg>

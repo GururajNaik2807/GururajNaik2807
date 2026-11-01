@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 78" width="900" height="78" role="img" aria-label="Projects">
+<title>Projects</title>
+<defs>
+<radialGradient id="iris" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ff5a5f"/><stop offset=".55" stop-color="#e11d2e"/><stop offset="1" stop-color="#8a0b14"/></radialGradient>
+<radialGradient id="aura" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#e11d2e" stop-opacity=".55"/><stop offset="1" stop-color="#e11d2e" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-50%" y="-80%" width="200%" height="260%"><feGaussianBlur stdDeviation="14"/></filter>
+<path id="tomoe" d="M-1 0 C-.8 -1.8 1.8 -2.6 3.6 -1.4 C2 -1.6 1 -.8 1 0 A1 1 0 0 1 -1 0Z"/>
+<path id="feather" d="M0 0 C5 -9 7 -22 0 -38 C-7 -22 -5 -9 0 0Z" fill="#0b0b10" stroke="#e11d2e" stroke-opacity=".55" stroke-width=".9"/>
+<path id="cloud" d="M0 26 C-14 26 -16 8 -2 5 C0 -10 22 -14 28 -2 C38 -10 56 -2 50 12 C62 14 60 30 46 30 L6 30 C2 30 0 28 0 26Z" fill="#e11d2e" stroke="#f3f1f4" stroke-width="2.2"/>
+<style>.u{stroke-dasharray:880;stroke-dashoffset:880;animation:dr 1.6s ease-out .3s forwards}
+@keyframes dr{to{stroke-dashoffset:0}}</style></defs>
+<path d="M0 10 L10 0 H890 L900 10 V68 L890 78 H10 L0 68Z" fill="#0d0a11"/>
+<g transform="translate(30 36)"><circle r="18" fill="url(#iris)" stroke="#000" stroke-width="0.9"/><circle r="11.2" fill="none" stroke="#1a0004" stroke-width="0.5"/><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/><use xlink:href="#tomoe" transform="rotate(0) translate(0 -11.2) scale(2.70)" fill="#080002"/><use xlink:href="#tomoe" transform="rotate(120) translate(0 -11.2) scale(2.70)" fill="#080002"/><use xlink:href="#tomoe" transform="rotate(240) translate(0 -11.2) scale(2.70)" fill="#080002"/></g><circle r="3.6" fill="#000"/></g>
+<text x="62" y="49" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="36" letter-spacing="6" fill="#f3f1f4">PROJECTS</text>
+<text x="890" y="48" text-anchor="end" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="28" fill="#8a0b14">任務</text>
+<path class="u" d="M10 64 H890" stroke="#e11d2e" stroke-width="3" fill="none" filter="url(#glow)"/>
+<path d="M10 70 H890" stroke="#8a0b14" stroke-width="1" opacity=".5"/>
+<g><animateMotion path="M140 44 Q500 14 840 40" dur="7s" repeatCount="indefinite" rotate="auto"/><g transform="scale(0.4)" fill="#08080c" stroke="#e11d2e" stroke-opacity=".45" stroke-width=".8">
+<g><animateTransform attributeName="transform" type="rotate" values="-22 0 0;32 0 0;-22 0 0" dur=".6s" repeatCount="indefinite"/><path d="M0 0 C-4 -14 -16 -24 -34 -26 C-26 -18 -22 -10 -20 -2Z"/></g>
+<ellipse cx="0" cy="1" rx="10" ry="4.2"/><circle cx="11" cy="-1" r="3.4"/><path d="M13.5 -2.6 L21 0 L13.5 1Z"/><path d="M-9 0 L-22 3 L-9 5.5Z"/>
+<circle cx="12" cy="-1.8" r=".9" fill="#e11d2e" stroke="none"/>
+<g opacity=".7"><animateTransform attributeName="transform" type="rotate" values="30 0 0;-20 0 0;30 0 0" dur=".6s" repeatCount="indefinite"/><path d="M0 1 C-6 12 -16 20 -30 20 C-22 14 -18 8 -16 2Z"/></g></g></g>
+</svg>

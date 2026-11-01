@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 338" width="900" height="338" role="img" aria-label="Skills: languages, frontend, backend and data, tools">
+<title>Skills: languages, frontend, backend and data, tools</title>
+<defs>
+<radialGradient id="iris" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ff5a5f"/><stop offset=".55" stop-color="#e11d2e"/><stop offset="1" stop-color="#8a0b14"/></radialGradient>
+<radialGradient id="aura" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#e11d2e" stop-opacity=".55"/><stop offset="1" stop-color="#e11d2e" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-50%" y="-80%" width="200%" height="260%"><feGaussianBlur stdDeviation="14"/></filter>
+<path id="tomoe" d="M-1 0 C-.8 -1.8 1.8 -2.6 3.6 -1.4 C2 -1.6 1 -.8 1 0 A1 1 0 0 1 -1 0Z"/>
+<path id="feather" d="M0 0 C5 -9 7 -22 0 -38 C-7 -22 -5 -9 0 0Z" fill="#0b0b10" stroke="#e11d2e" stroke-opacity=".55" stroke-width=".9"/>
+<path id="cloud" d="M0 26 C-14 26 -16 8 -2 5 C0 -10 22 -14 28 -2 C38 -10 56 -2 50 12 C62 14 60 30 46 30 L6 30 C2 30 0 28 0 26Z" fill="#e11d2e" stroke="#f3f1f4" stroke-width="2.2"/>
+<style>.ch{animation:sl .6s cubic-bezier(.2,.9,.3,1) both}
+@keyframes sl{from{opacity:0;transform:translateX(-40px)}to{opacity:1;transform:translateX(0)}}</style></defs>
+<path d="M0 14 L14 0 H886 L900 14 V324 L886 338 H14 L0 324Z" fill="#0d0a11" stroke="#e11d2e" stroke-opacity=".5" stroke-width="1.5"/>
+<g transform="translate(0 24)"><rect x="22" y="0" width="4" height="32" fill="#e11d2e"/>
+<text x="36" y="20" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="20" letter-spacing="3" fill="#f3f1f4">LANGUAGES</text>
+<g transform="translate(190 0)"><g class="ch" style="animation-delay:0.00s">
+<path d="M0 0 H162.3 L172.3 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="92.15" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">JavaScript (ES6+)</text></g></g><g transform="translate(372.3 0)"><g class="ch" style="animation-delay:0.09s">
+<path d="M0 0 H75.4 L85.4 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="48.7" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">Python</text></g></g><g transform="translate(467.70000000000005 0)"><g class="ch" style="animation-delay:0.18s">
+<path d="M0 0 H51.7 L61.7 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="36.85" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">SQL</text></g></g><g transform="translate(539.4000000000001 0)"><g class="ch" style="animation-delay:0.27s">
+<path d="M0 0 H67.5 L77.5 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="44.75" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">HTML5</text></g></g><g transform="translate(626.9000000000001 0)"><g class="ch" style="animation-delay:0.36s">
+<path d="M0 0 H59.599999999999994 L69.6 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="40.8" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">CSS3</text></g></g></g><g transform="translate(0 82)"><rect x="22" y="0" width="4" height="74" fill="#e11d2e"/>
+<text x="36" y="20" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="20" letter-spacing="3" fill="#f3f1f4">FRONTEND</text>
+<g transform="translate(190 0)"><g class="ch" style="animation-delay:0.45s">
+<path d="M0 0 H91.2 L101.2 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="56.6" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">React.js</text></g></g><g transform="translate(301.2 0)"><g class="ch" style="animation-delay:0.54s">
+<path d="M0 0 H162.3 L172.3 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="92.15" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">Responsive Design</text></g></g><g transform="translate(483.5 0)"><g class="ch" style="animation-delay:0.63s">
+<path d="M0 0 H201.8 L211.8 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="111.9" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">Reusable UI Components</text></g></g><g transform="translate(705.3 0)"><g class="ch" style="animation-delay:0.72s">
+<path d="M0 0 H154.4 L164.4 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="88.2" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">DOM Manipulation</text></g></g><g transform="translate(190 42)"><g class="ch" style="animation-delay:0.81s">
+<path d="M0 0 H122.80000000000001 L132.8 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="72.4" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">HTML5 Canvas</text></g></g></g><g transform="translate(0 182)"><rect x="22" y="0" width="4" height="74" fill="#e11d2e"/>
+<text x="36" y="20" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="20" letter-spacing="3" fill="#f3f1f4">BACKEND</text>
+<g transform="translate(190 0)"><g class="ch" style="animation-delay:0.90s">
+<path d="M0 0 H67.5 L77.5 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="44.75" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">Flask</text></g></g><g transform="translate(277.5 0)"><g class="ch" style="animation-delay:0.99s">
+<path d="M0 0 H83.3 L93.3 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="52.65" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">FastAPI</text></g></g><g transform="translate(380.8 0)"><g class="ch" style="animation-delay:1.08s">
+<path d="M0 0 H122.80000000000001 L132.8 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="72.4" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">RESTful APIs</text></g></g><g transform="translate(523.6 0)"><g class="ch" style="animation-delay:1.17s">
+<path d="M0 0 H67.5 L77.5 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="44.75" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">MySQL</text></g></g><g transform="translate(611.1 0)"><g class="ch" style="animation-delay:1.26s">
+<path d="M0 0 H75.4 L85.4 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="48.7" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">SQLite</text></g></g><g transform="translate(190 42)"><g class="ch" style="animation-delay:1.35s">
+<path d="M0 0 H217.6 L227.6 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="119.8" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">WhatsApp API Integration</text></g></g></g><g transform="translate(0 282)"><rect x="22" y="0" width="4" height="32" fill="#e11d2e"/>
+<text x="36" y="20" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="20" letter-spacing="3" fill="#f3f1f4">TOOLS</text>
+<g transform="translate(190 0)"><g class="ch" style="animation-delay:1.44s">
+<path d="M0 0 H51.7 L61.7 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="36.85" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">Git</text></g></g><g transform="translate(261.7 0)"><g class="ch" style="animation-delay:1.53s">
+<path d="M0 0 H75.4 L85.4 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="48.7" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">GitHub</text></g></g><g transform="translate(357.1 0)"><g class="ch" style="animation-delay:1.62s">
+<path d="M0 0 H83.3 L93.3 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="52.65" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">VS Code</text></g></g><g transform="translate(460.40000000000003 0)"><g class="ch" style="animation-delay:1.71s">
+<path d="M0 0 H130.7 L140.7 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="76.35" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">Web Analytics</text></g></g><g transform="translate(611.1 0)"><g class="ch" style="animation-delay:1.80s">
+<path d="M0 0 H170.2 L180.2 10 V32 H10 L0 22Z" fill="#12090e" stroke="#e11d2e" stroke-width="1.4"/>
+<circle cx="14" cy="16.0" r="3" fill="#e11d2e"/>
+<text x="96.1" y="21.0" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#f3f1f4">Data Visualization</text></g></g></g>
+</svg>
