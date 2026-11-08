@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 205" width="900" height="205" role="img" aria-label="GitHub record: 16 repositories, 11 stars earned, 2 followers">
-<title>GitHub record: 16 repositories, 11 stars earned, 2 followers</title>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 205" width="900" height="205" role="img" aria-label="GitHub record: 16 repositories, 11 stars earned, 3 followers">
+<title>GitHub record: 16 repositories, 11 stars earned, 3 followers</title>
 <defs>
 <radialGradient id="iris" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ff5a5f"/><stop offset=".55" stop-color="#e11d2e"/><stop offset="1" stop-color="#8a0b14"/></radialGradient>
 <radialGradient id="aura" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#e11d2e" stop-opacity=".55"/><stop offset="1" stop-color="#e11d2e" stop-opacity="0"/></radialGradient>
@@ -16,7 +16,7 @@
 <path d="M300 40 V150 M600 40 V150" stroke="#8a0b14" stroke-opacity=".6"/>
 <g class="pop" style="animation-delay:0.30s"><text x="150" y="100" text-anchor="middle" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="74" fill="#f3f1f4" filter="url(#glow)">16</text></g>
 <text x="150" y="134" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="4" fill="#e11d2e">REPOSITORIES</text><g class="pop" style="animation-delay:0.65s"><text x="450" y="100" text-anchor="middle" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="74" fill="#f3f1f4" filter="url(#glow)">11</text></g>
-<text x="450" y="134" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="4" fill="#e11d2e">STARS EARNED</text><g class="pop" style="animation-delay:1.00s"><text x="750" y="100" text-anchor="middle" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="74" fill="#f3f1f4" filter="url(#glow)">2</text></g>
+<text x="450" y="134" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="4" fill="#e11d2e">STARS EARNED</text><g class="pop" style="animation-delay:1.00s"><text x="750" y="100" text-anchor="middle" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Segoe UI', sans-serif" font-size="74" fill="#f3f1f4" filter="url(#glow)">3</text></g>
 <text x="750" y="134" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="4" fill="#e11d2e">FOLLOWERS</text>
 <text x="450" y="182" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#a5a1ad">ACHIEVEMENTS · Pull Shark · Quickdraw</text>
 </svg>
